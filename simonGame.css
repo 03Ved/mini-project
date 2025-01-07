@@ -1,0 +1,54 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: #2d2d30;
+}
+
+.outer {
+    width: 320px;
+    height: 320px;
+    margin: 0 auto;
+}
+
+.btn {
+    width: 100px;
+    height: 100px;
+    border: 5px solid white;
+    border-radius: 20px;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+    margin: 25px 25px;
+}
+
+.inner1, .inner2 {
+    display: flex;
+}
+
+.red {
+    background-color: #d95980;
+}
+
+.green {
+    background-color: #63aac0;
+}
+
+.yellow {
+    background-color: #f99b45;
+}
+
+.blue {
+    background-color: #819ff9;
+}
+
+.timer {
+    color: #2d2d30;
+}
+
+.blink {
+    background-color: white;
+}
+
+.userBlink {
+    background-color: green;
+}
